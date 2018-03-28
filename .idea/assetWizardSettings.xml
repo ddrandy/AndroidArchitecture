@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/home/randy/Programs/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/device/ic_access_alarm_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/home/randy/Programs/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/content/ic_delete_sweep_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_access_alarm_black_24dp" />
+                            <entry key="color" value="da1917" />
+                            <entry key="outputName" value="ic_delete_sweep_red_24dp" />
                             <entry key="sourceFile" value="$USER_HOME$" />
                           </map>
                         </option>

@@ -1,4 +1,4 @@
-package com.randy.androidarchitecture.injection;
+package com.randy.androidarchitecture.injection.annotation;
 
 import android.arch.lifecycle.ViewModel;
 

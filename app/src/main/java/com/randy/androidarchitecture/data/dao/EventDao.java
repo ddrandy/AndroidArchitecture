@@ -10,7 +10,8 @@ import android.arch.persistence.room.Update;
 
 import com.randy.androidarchitecture.data.entity.Event;
 
-import java.time.LocalDateTime;
+import org.threeten.bp.LocalDateTime;
+
 import java.util.List;
 
 /**
